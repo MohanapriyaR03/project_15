@@ -1,0 +1,12 @@
+button{
+    cursor:pointer;
+    background-color: blueviolet;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+body{
+    display: flex;
+    justify-content:center;
+    margin:300px;
+   
+}
